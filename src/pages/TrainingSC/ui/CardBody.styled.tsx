@@ -3,7 +3,6 @@ import styled from 'styled-components'
 const CardBodyStyled = styled.div`
   text-align: left;
   padding: 20px;
-  box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.10);
 
   h3 {
     font-size: 16px;
